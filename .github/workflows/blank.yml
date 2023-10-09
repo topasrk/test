@@ -28,6 +28,4 @@ jobs:
       
     - name: SET SCREEN BAT
       run: cmd /c C:\Users\data\SCREEN.bat
-        
-    - name: RUN AI
-      run: cmd /c C:\Users\data\onAi.bat  
+      
